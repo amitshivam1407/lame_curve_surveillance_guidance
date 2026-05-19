@@ -33,31 +33,22 @@ The proposed method replaces conventional elliptic circumscription with a family
 
 ---
 
-# Lamé Curve Surveillance Concept
+## Representative Results
 
-<p align="center">
-<img src="figures/rectangle_circumscription.png" width="650">
-</p>
-
-The proposed approach generates smooth surveillance orbits around rectangular regions while respecting UAV turning constraints.
-
----
-
-# Lamé vs Elliptic Circumscription
-
-<p align="center">
-<img src="figures/lame_vs_ellipse.png" width="700">
-</p>
-
-Lamé curves achieve significantly lower path length compared to classical elliptic circumscription while satisfying identical curvature constraints.
-
----
-
-# Vector Field Guidance
-
-<p align="center">
-<img src="figures/vector_field_overview.png" width="650">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Lamé Curve Surveillance Concept</h3>
+      <img src="figures/superellipse_path_following.gif" width="430"><br>
+      <p>Smooth surveillance orbit around a rectangular boundary while respecting UAV turning constraints.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>Lamé vs Elliptic Circumscription</h3>
+      <img src="figures/ellipse_superellipse_path_following.gif" width="430"><br>
+      <p>Comparison between Lamé-curve and elliptic circumscription under identical curvature constraints.</p>
+    </td>
+  </tr>
+</table>
 
 The guidance law combines:
 
@@ -68,10 +59,6 @@ The guidance law combines:
 ---
 
 # Experimental Validation
-
-<p align="center">
-<img src="figures/experimental_results.png" width="750">
-</p>
 
 Indoor flight experiments using the Crazyflie 2.0 validate the proposed guidance strategy under realistic conditions.
 
