@@ -1,0 +1,6 @@
+@article{shivam2025lame,
+  title={Surveillance Guidance Using Lamé Curve Paths},
+  author={Shivam, Amit and Ratnoo, Ashwini},
+  journal={Journal of Guidance, Control, and Dynamics},
+  year={2025}
+}

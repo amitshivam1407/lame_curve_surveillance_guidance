@@ -1,0 +1,15 @@
+*.asv
+*.autosave
+*.fig
+*.slxc
+*.mex*
+Thumbs.db
+.DS_Storevideos/crazyflie_experiment.mp4
+figures/ellipse_superellipse_path_following.gif
+figures/superellipse_path_following.gif
+figures/superellipse_path_following.gif
+figures/ellipse_superellipse_path_following.gif
+videos/crazyflie_experiment.mp4
+videos/crazyflie_experiment.mp4
+figures/superellipse_path_following.gif
+figures/ellipse_superellipse_path_following.gif
