@@ -36,19 +36,30 @@ The proposed method replaces conventional elliptic circumscription with a family
 ## Representative Results
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Lamé Curve Surveillance Concept</h3>
-      <img src="figures/superellipse_path_following.gif" width="430"><br>
-      <p>Smooth surveillance orbit around a rectangular boundary while respecting UAV turning constraints.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Lamé vs Elliptic Circumscription</h3>
-      <img src="figures/ellipse_superellipse_path_following.gif" width="430"><br>
-      <p>Comparison between Lamé-curve and elliptic circumscription under identical curvature constraints.</p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+### Lamé Curve Surveillance
+
+<img src="figures/superellipse_path_following.gif" width="430">
+
+Smooth surveillance orbit around a rectangular boundary while respecting UAV turning constraints.
+
+</td>
+
+<td align="center" width="50%">
+
+### Lamé vs Elliptic Circumscription
+
+<img src="figures/ellipse_superellipse_path_following.gif" width="430">
+
+Comparison between Lamé-curve and elliptic circumscription under identical curvature constraints.
+
+</td>
+</tr>
 </table>
+
+---
 
 The guidance law combines:
 
@@ -56,7 +67,7 @@ The guidance law combines:
 - arcsine shaping function
 - asymptotic convergence behavior
 
----
+
 
 # Experimental Validation
 
