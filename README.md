@@ -61,17 +61,27 @@ Comparison between Lamé-curve and elliptic circumscription under identical curv
 
 ---
 
+
 The guidance law combines:
 
 - path tangential motion
 - arcsine shaping function
 - asymptotic convergence behavior
 
-
-
-# Experimental Validation
-
-Indoor flight experiments using the Crazyflie 2.0 validate the proposed guidance strategy under realistic conditions.
+## Experimental Video Demonstration
+Indoor flight experiments using the Crazyflie 2.0 quadrotor validate the proposed guidance strategy at motion capture facility, at AVL IISc.
+<table>
+<tr>
+<td align="center" width="100%">
+<h3>Crazyflie Experimental Validation</h3>
+<img src="./figures/experimental_validation_demo.gif" width="750">
+<br>
+<p>
+Indoor Crazyflie 2.0 experimental validation using motion-capture trajectory data for Lamé curve surveillance guidance.
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
